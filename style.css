@@ -1,0 +1,63 @@
+/* Opća stilizacija */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  background-color: #ffdfd9; /* Suptilna roza */
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+/* Kontejner za raspored */
+#raspored {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Stil za pojedinačne blokove */
+.predavanje,
+.vjezba {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px;
+  width: 250px;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
+}
+
+/* Default boje po tipu */
+.predavanje {
+  background-color: #d0e7ff; /* nježna plava */
+}
+
+.vjezba {
+  background-color: #ffe0b3; /* nježna narančasta */
+}
+
+/* Boje za aktivne (u tijeku) blokove */
+.predavanje.active {
+  background-color: #9ec9ff; /* druga nijansa plave */
+}
+
+.vjezba.active {
+  background-color: #ffcc80; /* druga nijansa narančaste */
+}
+
+/* Stilovi za tekst */
+.predavanje h3,
+.vjezba h3 {
+  margin-top: 0;
+  color: #222;
+}
+
+.predavanje p,
+.vjezba p {
+  margin: 5px 0;
+  color: #555;
+}
+
