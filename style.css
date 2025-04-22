@@ -1,0 +1,379 @@
+/* --- Osnovno i Reset --- */
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* --- CSS Varijable za Teme --- */
+:root {
+    /* Svijetla Tema (Default) */
+    --body-bg: #f4f7f6;
+    --text-color: #333;
+    --header-bg: #4a4e69;
+    --header-text: #ffffff;
+    --footer-link: #c3c7e6;
+    --nav-date-text: #22223b;
+    --nav-button-color: #4a4e69;
+    --nav-button-hover: #6a6e91; /* Malo svjetlije za hover */
+    --nav-button-hover-text: #ffffff;
+    --card-bg: #ffffff;
+    --card-shadow: rgba(0, 0, 0, 0.08);
+    --card-shadow-active: rgba(74, 78, 105, 0.15);
+    --card-title: #22223b;
+    --card-text: #555;
+    --card-icon: #4a4e69;
+    --card-border-predavanje: #a0c4ff;
+    --card-border-vjezbe: #ffdcb3;
+    --card-icon-predavanje: #6b9eff;
+    --card-icon-vjezbe: #ffa858;
+    --card-border-active-predavanje: #4a90e2;
+    --card-border-active-vjezbe: #ff8c00;
+    --card-zavrseno-bg: #f0f0f0;
+    --card-zavrseno-border: #a5d6a7;
+    --card-zavrseno-text: #777;
+    --card-zavrseno-icon: #81c784;
+    --next-up-shadow: rgba(92, 184, 92, 0.5);
+    --timer-active: #d9534f;
+    --timer-next: #5cb85c;
+    --progress-bar-bg: rgba(200, 200, 200, 0.5);
+    --progress-bar-fill: #4a90e2;
+    --pauza-bg: #e9ecef;
+    --pauza-text: #6c757d;
+    --pauza-border: #ced4da;
+    --today-btn-bg: #6c757d;
+    --today-btn-hover-bg: #5a6268;
+    --today-btn-text: #ffffff;
+    --ispit-bg: #e3f2fd;
+    --ispit-border: #bbdefb;
+    --ispit-border-left: #64b5f6;
+    --ispit-title: #1e88e5;
+    --ispit-text: #424242;
+    --ispit-subtext: #757575;
+    --switch-bg: #ccc;
+    --switch-slider-bg: white;
+    --switch-sun-color: #f39c12;
+    --switch-moon-color: #6e40a7;
+    --border-color-light: #eee;
+    --danas-datum-color: #5cb85c;
+}
+
+/* Dark Mode Tema */
+body.dark-mode {
+    --body-bg: #1e1e1e; /* Tamnija pozadina */
+    --text-color: #e2e2e2; /* Svjetliji tekst */
+    --header-bg: #2a2a2e; /* Tamniji header */
+    --header-text: #ffffff;
+    --footer-link: #a0a0a0;
+    --nav-date-text: #ffffff;
+    --nav-button-color: #8a9ff0; /* Svjetlija plava za gumbe */
+    --nav-button-hover: #6a7fcc;
+    --nav-button-hover-text: #ffffff;
+    --card-bg: #2f2f33; /* Tamna kartica */
+    --card-shadow: rgba(0, 0, 0, 0.3);
+    --card-shadow-active: rgba(0, 0, 0, 0.4);
+    --card-title: #ffffff;
+    --card-text: #c0c0c0; /* Svjetliji sivi tekst */
+    --card-icon: #8a9ff0;
+    --card-border-predavanje: #8a9ff0;
+    --card-border-vjezbe: #f5b951; /* Jača narančasta */
+    --card-icon-predavanje: #a0b1f5;
+    --card-icon-vjezbe: #f8cc7c;
+    --card-border-active-predavanje: #ffffff;
+    --card-border-active-vjezbe: #ffffff;
+    --card-zavrseno-bg: #252528; /* Vrlo tamna za završeno */
+    --card-zavrseno-border: #4f545c;
+    --card-zavrseno-text: #888888;
+    --card-zavrseno-icon: #61676f;
+    --next-up-shadow: rgba(109, 255, 177, 0.4); /* Svjetlija zelena sjena */
+    --timer-active: #ff7f7f; /* Svjetlija crvena */
+    --timer-next: #8affc1; /* Svjetlija zelena */
+    --progress-bar-bg: rgba(255, 255, 255, 0.1);
+    --progress-bar-fill: #8a9ff0;
+    --pauza-bg: #252528;
+    --pauza-text: #a0a0a0;
+    --pauza-border: #555555;
+    --today-btn-bg: #4f545c;
+    --today-btn-hover-bg: #5d636a;
+    --today-btn-text: #ffffff;
+    --ispit-bg: #23374d;
+    --ispit-border: #1e4a70;
+    --ispit-border-left: #3c89d0;
+    --ispit-title: #6eb1f7;
+    --ispit-text: #d1d1d1;
+    --ispit-subtext: #a1a1a1;
+    --switch-bg: #555;
+    --switch-slider-bg: #303134;
+    --switch-sun-color: #f1c40f;
+    --switch-moon-color: #a688d5;
+    --border-color-light: #444448; /* Tamnija granica */
+    --danas-datum-color: #8affc1;
+}
+
+/* --- Osnovni Stilovi --- */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--body-bg);
+    color: var(--text-color);
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+main {
+    flex-grow: 1;
+    width: 100%;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 0 15px;
+}
+
+header {
+    background-color: var(--header-bg);
+    color: var(--header-text);
+    padding: 12px 20px; /* Smanjen padding headera */
+    transition: background-color 0.3s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.header-title-wrapper {
+    flex-grow: 1;
+    text-align: center;
+    padding: 0 55px; /* Smanjen padding jer je switch manji */
+}
+
+header h1 {
+    font-weight: 600;
+    font-size: 1.6em; /* Smanjen naslov */
+    margin: 0;
+    display: inline-block;
+}
+
+footer {
+    background-color: var(--header-bg);
+    color: var(--header-text);
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px 0;
+    font-size: 0.9em;
+    transition: background-color 0.3s ease;
+}
+footer a { color: var(--footer-link); text-decoration: none;}
+footer a:hover { text-decoration: underline; }
+
+/* Dark Mode Switch */
+.theme-switch-wrapper { position: absolute; top: 50%; right: 15px; transform: translateY(-50%); }
+.theme-switch { display: inline-block; height: 26px; position: relative; width: 50px; } /* Manji switch */
+.theme-switch input { opacity: 0; width: 0; height: 0; }
+.slider { background-color: var(--switch-bg); bottom: 0; cursor: pointer; left: 0; position: absolute; right: 0; top: 0; transition: .4s; border-radius: 26px; display: flex; align-items: center; justify-content: space-between; padding: 0 4px; }
+.slider:before { background-color: var(--switch-slider-bg); bottom: 3px; content: ""; height: 20px; left: 3px; position: absolute; transition: .4s; width: 20px; border-radius: 50%; z-index: 1; }
+input:checked + .slider:before { transform: translateX(24px); } /* Prilagođen pomak */
+.slider .icon { font-size: 12px; transition: color 0.3s ease; z-index: 0; }
+.slider .icon.sun { color: var(--switch-sun-color); }
+.slider .icon.moon { color: var(--switch-moon-color); }
+body:not(.dark-mode) .slider .icon.moon { display: none; }
+body.dark-mode .slider .icon.sun { display: none; }
+
+/* Navigacija Datumom */
+.navigacija-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 15px;
+    padding: 8px 0;
+}
+
+.navigacija-container h2#prikazaniDatum {
+    color: var(--nav-date-text);
+    font-weight: 600;
+    font-size: 1.4em;
+    text-align: center;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.navigacija-kontrole {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px; /* Manji razmak */
+    width: auto; /* Ne treba 100% */
+}
+
+.navigacija-kontrole button {
+    background: none;
+    border: 1px solid var(--nav-button-color);
+    color: var(--nav-button-color);
+    cursor: pointer;
+    padding: 5px 10px; /* Manji padding */
+    transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+    border-radius: 5px;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 40px; /* Minimalna širina za gumbe sa strelicama */
+}
+.navigacija-kontrole button:hover {
+    background-color: var(--nav-button-hover);
+    color: var(--nav-button-hover-text); /* Koristi varijablu */
+    border-color: var(--nav-button-hover);
+}
+
+.navigacija-kontrole button#prevDay,
+.navigacija-kontrole button#nextDay {
+    font-size: 1em; /* Veličina ikone */
+}
+
+.navigacija-kontrole button#todayBtn {
+    font-size: 0.85em; /* Još malo manji */
+    background-color: var(--today-btn-bg);
+    color: var(--today-btn-text);
+    border-color: var(--today-btn-bg);
+    font-weight: 600;
+    padding: 6px 12px;
+}
+.navigacija-kontrole button#todayBtn:hover {
+    background-color: var(--today-btn-hover-bg);
+    border-color: var(--today-btn-hover-bg);
+    color: var(--today-btn-text);
+}
+
+h2.danasnji-datum {
+    color: var(--danas-datum-color);
+    font-weight: bold;
+    /* Dodatno isticanje ako želiš */
+    /* border: 1px solid var(--danas-datum-color); */
+    /* padding: 2px 6px; */
+    /* border-radius: 4px; */
+}
+
+#trenutnoVrijemeInfo {
+    text-align: center;
+    font-size: 0.85em; /* Manje */
+    color: var(--text-color);
+    margin-bottom: 15px; /* Manji razmak */
+    opacity: 0.8; /* Malo manje istaknuto */
+}
+
+.raspored-kontejner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px; /* Smanjen razmak */
+}
+
+/* Kartica Termina */
+.termin {
+    background-color: var(--card-bg);
+    border-radius: 6px; /* Manje zaobljenje */
+    padding: 12px 15px; /* Smanjen padding */
+    width: 100%;
+    max-width: 650px; /* Malo uže */
+    box-shadow: 0 1px 3px var(--card-shadow); /* Suptilnija sjena */
+    border-left: 4px solid transparent; /* Tanji border */
+    transition: all 0.2s ease, background-color 0.3s ease, border-color 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+.termin:hover { box-shadow: 0 3px 6px var(--card-shadow); } /* Malo jači hover */
+.termin h3 { color: var(--card-title); margin-top: 0; margin-bottom: 8px; font-size: 1.1em; font-weight: 600; }
+.termin p { color: var(--card-text); margin: 4px 0; font-size: 0.85em; display: flex; align-items: center; gap: 8px; }
+.termin p i.fa-fw { color: var(--card-icon); width: 1.2em; text-align: center; flex-shrink: 0; }
+.termin-status-container { margin-top: 10px; padding-top: 8px; border-top: 1px solid var(--border-color-light); }
+.termin-status-container p { font-size: 0.8em; font-weight: 600; color: var(--card-text); display: flex; align-items: center; gap: 6px; min-height: 1.4em; }
+.termin-status-container p.status-text { margin-bottom: 2px; }
+.termin-status-container p.active-timer { color: var(--timer-active); }
+.termin-status-container p.next-up-timer { color: var(--timer-next); }
+.termin.predavanje { border-left-color: var(--card-border-predavanje); }
+.termin.predavanje p i.fa-fw { color: var(--card-icon-predavanje); }
+.termin.vjezbe { border-left-color: var(--card-border-vjezbe); }
+.termin.vjezbe p i.fa-fw { color: var(--card-icon-vjezbe); }
+.termin.active { box-shadow: 0 4px 8px var(--card-shadow-active); transform: translateY(0); } /* Nema više podizanja */
+.termin.predavanje.active { border-left-color: var(--card-border-active-predavanje); }
+.termin.vjezbe.active { border-left-color: var(--card-border-active-vjezbe); }
+.termin.zavrseno { background-color: var(--card-zavrseno-bg); border-left-color: var(--card-zavrseno-border); opacity: 0.75; }
+.termin.zavrseno h3, .termin.zavrseno p, .termin.zavrseno .termin-status-container p { color: var(--card-zavrseno-text); }
+.termin.zavrseno p i.fa-fw { color: var(--card-zavrseno-icon); }
+.termin.zavrseno .timer-text { display: none !important; }
+.termin.zavrseno:hover { box-shadow: 0 1px 3px var(--card-shadow); transform: none; } /* Nema hover efekta */
+.termin.next-up { border: 1px solid var(--next-up-shadow); box-shadow: 0 0 6px var(--next-up-shadow); }
+
+/* Progress Bar */
+.progress-bar-container { position: absolute; bottom: 0; left: 0; width: 100%; height: 3px; background-color: var(--progress-bar-bg); display: none; }
+.termin.active .progress-bar-container { display: block; }
+.progress-bar-fill { height: 100%; width: 0; background-color: var(--progress-bar-fill); }
+
+/* Pauza */
+.pauza-info { width: 90%; max-width: 500px; text-align: center; padding: 6px 12px; margin: 4px 0; font-size: 0.75em; font-style: italic; color: var(--pauza-text); background-color: var(--pauza-bg); border-radius: 4px; display: flex; align-items: center; justify-content: center; gap: 6px; border: 1px dashed var(--pauza-border); }
+.pauza-info i { font-size: 0.8em; }
+
+/* Nema predavanja */
+#raspored > p { width: 100%; text-align: center; font-size: 1em; color: var(--text-color); opacity: 0.8; margin-top: 30px; padding: 20px; }
+
+/* Ispitni rok */
+.ispitni-rok-info { width: 100%; max-width: 650px; margin: 20px auto; padding: 20px; background-color: var(--ispit-bg); border: 1px solid var(--ispit-border); border-left: 4px solid var(--ispit-border-left); border-radius: 6px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+.ispitni-rok-info h3 { color: var(--ispit-title); margin-bottom: 12px; font-size: 1.2em; font-weight: 600; display: flex; align-items: center; justify-content: center; gap: 8px; }
+.ispitni-rok-info p { color: var(--ispit-text); font-size: 0.9em; line-height: 1.5; }
+.ispitni-rok-info p:last-child { margin-top: 6px; font-size: 0.8em; color: var(--ispit-subtext); }
+
+/* Mobile Optimizations */
+/* --- Mobile Optimizations --- */
+@media (max-width: 600px) {
+    header { padding: 8px 15px; }
+    header h1 { font-size: 1.3em; padding-right: 50px; }
+    .theme-switch-wrapper { right: 10px; }
+    .theme-switch { height: 24px; width: 46px; }
+    .slider:before { height: 18px; width: 18px; bottom: 3px; left: 3px; }
+    input:checked + .slider:before { transform: translateX(20px); }
+    .slider .icon { font-size: 10px; }
+
+    main { padding: 0 10px; }
+
+    .navigacija-kontrole {
+        gap: 8px; /* Smanjen osnovni gap za mobitel */
+        justify-content: space-between; /* Zadržavamo space-between */
+        /* Ne treba flex-grow na gumbima ako koristimo space-between */
+    }
+
+    .navigacija-kontrole button {
+        padding: 5px 8px; /* Prilagođen padding */
+        font-size: 1.1em; /* Malo manji font gumba */
+        min-width: 38px; /* Osiguraj minimalnu širinu */
+         /* flex-grow: 0; Eksplicitno isključi grow ako je bio postavljen */
+    }
+
+    /* >>> NOVO: Dodavanje margina za srednji gumb <<< */
+    .navigacija-kontrole button#todayBtn {
+        font-size: 0.8em;
+        padding: 6px 10px; /* Malo više paddinga za 'danas' */
+        margin-left: 5px;  /* Dodaj marginu lijevo */
+        margin-right: 5px; /* Dodaj marginu desno */
+        /* Nema potrebe za flex-grow ako koristimo margine */
+    }
+     /* >>> KRAJ NOVOG DIJELA <<< */
+
+
+    .navigacija-container h2#prikazaniDatum { font-size: 1.1em; margin-bottom: 8px; } /* Još malo manji datum */
+
+
+    /* Ostali mobilni stilovi ostaju isti */
+    #trenutnoVrijemeInfo { font-size: 0.8em; margin-bottom: 10px; }
+    .termin, .ispitni-rok-info, .pauza-info { padding: 10px 12px; }
+    .termin h3 { font-size: 0.95em; margin-bottom: 6px;}
+    .termin p { font-size: 0.75em; gap: 6px; margin: 3px 0;}
+    .termin p i.fa-fw { width: 1.1em; }
+    .termin-status-container { margin-top: 8px; padding-top: 6px; }
+    .termin-status-container p { font-size: 0.7em; gap: 5px; min-height: 1.3em;}
+    .pauza-info { font-size: 0.7em; padding: 4px 8px;}
+    .ispitni-rok-info h3 { font-size: 1em; margin-bottom: 10px;}
+    .ispitni-rok-info p { font-size: 0.8em;}
+    .ispitni-rok-info p:last-child { font-size: 0.7em;}
+}

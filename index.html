@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="512velicinaSlika.png">
+    <title>Raspored Fakulteta</title>
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" id="metaThemeColor" content="#4a4e69">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="apple-touch-icon" href="192velicinaSlika.png"> <!-- !! Provjeri putanju !! -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="header-title-wrapper">
+             <h1>Raspored Fakulteta (1RKS1)</h1>
+        </div>
+        
+        <div class="theme-switch-wrapper">
+            <label class="theme-switch" for="checkboxTheme">
+                <input type="checkbox" id="checkboxTheme" aria-label="Prebaci tamni način"/>
+                <div class="slider round">
+                     <span class="icon sun"><i class="fas fa-sun"></i></span>
+                     <span class="icon moon"><i class="fas fa-moon"></i></span>
+                </div>
+            </label>
+        </div>
+    </header>
+
+    <main>
+        <div class="navigacija-container">
+            <h2 id="prikazaniDatum">Učitavanje...</h2>
+            <div class="navigacija-kontrole">
+                <button id="prevDay" aria-label="Prethodni dan"><i class="fas fa-chevron-left"></i></button>
+                <button id="todayBtn" aria-label="Današnji dan">Danas</button>
+                <button id="nextDay" aria-label="Sljedeći dan"><i class="fas fa-chevron-right"></i></button>
+            </div>
+        </div>
+        <p id="trenutnoVrijemeInfo"></p>
+
+        <div id="raspored" class="raspored-kontejner">
+            <p>Učitavanje rasporeda...</p>
+        </div>
+    </main>
+
+    <footer>
+        <p>Credit: Alen</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
