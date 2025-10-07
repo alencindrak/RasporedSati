@@ -1,0 +1,1504 @@
+{
+  "data": [
+    {
+      "datum": "07.10.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Mario Krnić",
+      "tip": "Predavanje",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "07.10.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Zlatan Morić",
+      "tip": "Predavanje",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "07.10.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Davor Ivković",
+      "tip": "Predavanje",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "08.10.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C3",
+      "nastavnik": "Branko Balon",
+      "tip": "Vježbe",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "08.10.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room A7 Ivan Lupis",
+      "nastavnik": "Zoran Lovrić",
+      "tip": "Vježbe",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "08.10.2025.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C10",
+      "nastavnik": "Davor Ivković",
+      "tip": "Vježbe",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "09.10.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Damir Regvart",
+      "tip": "Predavanje",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "09.10.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "09.10.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "10.10.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Damir Regvart",
+      "tip": "Vježbe",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "10.10.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Vježbe",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "10.10.2025.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Vježbe",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "14.10.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Mario Krnić",
+      "tip": "Predavanje",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "14.10.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Zlatan Morić",
+      "tip": "Predavanje",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "14.10.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Davor Ivković",
+      "tip": "Predavanje",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "15.10.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C3",
+      "nastavnik": "Branko Balon",
+      "tip": "Vježbe",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "15.10.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room A7 Ivan Lupis",
+      "nastavnik": "Zoran Lovrić",
+      "tip": "Vježbe",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "16.10.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Damir Regvart",
+      "tip": "Predavanje",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "16.10.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "16.10.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "17.10.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "17.10.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "17.10.2025.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Damir Regvart",
+      "tip": "Vježbe",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "21.10.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Mario Krnić",
+      "tip": "Predavanje",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "21.10.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Zlatan Morić",
+      "tip": "Predavanje",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "21.10.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Davor Ivković",
+      "tip": "Predavanje",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "22.10.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C3",
+      "nastavnik": "Branko Balon",
+      "tip": "Vježbe",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "22.10.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room A7 Ivan Lupis",
+      "nastavnik": "Zoran Lovrić",
+      "tip": "Vježbe",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "22.10.2025.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C10",
+      "nastavnik": "Davor Ivković",
+      "tip": "Vježbe",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "23.10.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Damir Regvart",
+      "tip": "Predavanje",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "23.10.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "23.10.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "24.10.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Damir Regvart",
+      "tip": "Vježbe",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "24.10.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "24.10.2025.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "28.10.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Mario Krnić",
+      "tip": "Predavanje",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "28.10.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Zlatan Morić",
+      "tip": "Predavanje",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "28.10.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Davor Ivković",
+      "tip": "Predavanje",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "29.10.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C3",
+      "nastavnik": "Branko Balon",
+      "tip": "Vježbe",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "29.10.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room F10 Dušan Vukotić",
+      "nastavnik": "Zoran Lovrić",
+      "tip": "Vježbe",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "30.10.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Damir Regvart",
+      "tip": "Predavanje",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "30.10.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "30.10.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "31.10.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "31.10.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "31.10.2025.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Damir Regvart",
+      "tip": "Vježbe",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "04.11.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Mario Krnić",
+      "tip": "Predavanje",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "04.11.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Zlatan Morić",
+      "tip": "Predavanje",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "04.11.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Davor Ivković",
+      "tip": "Predavanje",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "05.11.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C3",
+      "nastavnik": "Branko Balon",
+      "tip": "Vježbe",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "05.11.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room A7 Ivan Lupis",
+      "nastavnik": "Zoran Lovrić",
+      "tip": "Vježbe",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "05.11.2025.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C10",
+      "nastavnik": "Davor Ivković",
+      "tip": "Vježbe",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "06.11.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Damir Regvart",
+      "tip": "Predavanje",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "06.11.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "06.11.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "07.11.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Damir Regvart",
+      "tip": "Vježbe",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "07.11.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "07.11.2025.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "11.11.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Mario Krnić",
+      "tip": "Predavanje",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "11.11.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Zlatan Morić",
+      "tip": "Predavanje",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "11.11.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Davor Ivković",
+      "tip": "Predavanje",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "12.11.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C3",
+      "nastavnik": "Branko Balon",
+      "tip": "Vježbe",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "12.11.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room A7 Ivan Lupis",
+      "nastavnik": "Zoran Lovrić",
+      "tip": "Vježbe",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "13.11.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Damir Regvart",
+      "tip": "Predavanje",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "13.11.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "13.11.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "14.11.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "14.11.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "14.11.2025.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Damir Regvart",
+      "tip": "Vježbe",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "19.11.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C3",
+      "nastavnik": "Branko Balon",
+      "tip": "Vježbe",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "19.11.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room A7 Ivan Lupis",
+      "nastavnik": "Zoran Lovrić",
+      "tip": "Vježbe",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "19.11.2025.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C10",
+      "nastavnik": "Davor Ivković",
+      "tip": "Vježbe",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "20.11.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Damir Regvart",
+      "tip": "Predavanje",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "20.11.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "20.11.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "21.11.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Damir Regvart",
+      "tip": "Vježbe",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "21.11.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "21.11.2025.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "02.12.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Mario Krnić",
+      "tip": "Predavanje",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "02.12.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Zlatan Morić",
+      "tip": "Predavanje",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "02.12.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Davor Ivković",
+      "tip": "Predavanje",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "03.12.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C3",
+      "nastavnik": "Branko Balon",
+      "tip": "Vježbe",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "03.12.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room A7 Ivan Lupis",
+      "nastavnik": "Zoran Lovrić",
+      "tip": "Vježbe",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "03.12.2025.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C10",
+      "nastavnik": "Davor Ivković",
+      "tip": "Vježbe",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "04.12.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Damir Regvart",
+      "tip": "Predavanje",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "04.12.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "04.12.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "05.12.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Damir Regvart",
+      "tip": "Vježbe",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "05.12.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "05.12.2025.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "09.12.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Mario Krnić",
+      "tip": "Predavanje",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "09.12.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Zlatan Morić",
+      "tip": "Predavanje",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "09.12.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Davor Ivković",
+      "tip": "Predavanje",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "10.12.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C3",
+      "nastavnik": "Branko Balon",
+      "tip": "Vježbe",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "10.12.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room A7 Ivan Lupis",
+      "nastavnik": "Zoran Lovrić",
+      "tip": "Vježbe",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "11.12.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Damir Regvart",
+      "tip": "Predavanje",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "11.12.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "11.12.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "12.12.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "12.12.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "12.12.2025.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Damir Regvart",
+      "tip": "Vježbe",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "16.12.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Mario Krnić",
+      "tip": "Predavanje",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "16.12.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Zlatan Morić",
+      "tip": "Predavanje",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "16.12.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Davor Ivković",
+      "tip": "Predavanje",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "17.12.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C3",
+      "nastavnik": "Branko Balon",
+      "tip": "Vježbe",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "17.12.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room A7 Ivan Lupis",
+      "nastavnik": "Zoran Lovrić",
+      "tip": "Vježbe",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "17.12.2025.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C10",
+      "nastavnik": "Davor Ivković",
+      "tip": "Vježbe",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "18.12.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Damir Regvart",
+      "tip": "Predavanje",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "18.12.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "18.12.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "19.12.2025.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Damir Regvart",
+      "tip": "Vježbe",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "19.12.2025.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "19.12.2025.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "23.12.2025.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Mario Krnić",
+      "tip": "Predavanje",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "23.12.2025.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Zlatan Morić",
+      "tip": "Predavanje",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "23.12.2025.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Davor Ivković",
+      "tip": "Predavanje",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "02.01.2026.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Damir Regvart",
+      "tip": "Vježbe",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "02.01.2026.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "02.01.2026.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "07.01.2026.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C3",
+      "nastavnik": "Branko Balon",
+      "tip": "Vježbe",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "07.01.2026.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room A7 Ivan Lupis",
+      "nastavnik": "Zoran Lovrić",
+      "tip": "Vježbe",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "08.01.2026.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Damir Regvart",
+      "tip": "Predavanje",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "08.01.2026.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "08.01.2026.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "09.01.2026.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "09.01.2026.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "09.01.2026.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Damir Regvart",
+      "tip": "Vježbe",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "13.01.2026.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Mario Krnić",
+      "tip": "Predavanje",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "13.01.2026.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Zlatan Morić",
+      "tip": "Predavanje",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "13.01.2026.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Davor Ivković",
+      "tip": "Predavanje",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "14.01.2026.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C3",
+      "nastavnik": "Branko Balon",
+      "tip": "Vježbe",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "14.01.2026.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room A7 Ivan Lupis",
+      "nastavnik": "Zoran Lovrić",
+      "tip": "Vježbe",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "14.01.2026.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C10",
+      "nastavnik": "Davor Ivković",
+      "tip": "Vježbe",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "15.01.2026.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Damir Regvart",
+      "tip": "Predavanje",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "15.01.2026.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "15.01.2026.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "16.01.2026.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Damir Regvart",
+      "tip": "Vježbe",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "16.01.2026.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "16.01.2026.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "20.01.2026.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Mario Krnić",
+      "tip": "Predavanje",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "20.01.2026.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Zlatan Morić",
+      "tip": "Predavanje",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "20.01.2026.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Davor Ivković",
+      "tip": "Predavanje",
+      "predmet": "Pravni i etički aspekti kibernetičke sigurnosti (25-122-0191)"
+    },
+    {
+      "datum": "21.01.2026.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C3",
+      "nastavnik": "Branko Balon",
+      "tip": "Vježbe",
+      "predmet": "Operacijski sustavi (25-000-0118)"
+    },
+    {
+      "datum": "21.01.2026.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room A7 Ivan Lupis",
+      "nastavnik": "Zoran Lovrić",
+      "tip": "Vježbe",
+      "predmet": "Vjerojatnost i statistika (25-000-0119)"
+    },
+    {
+      "datum": "22.01.2026.",
+      "terminPocetak": "17:00",
+      "terminKraj": "18:30",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Damir Regvart",
+      "tip": "Predavanje",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    },
+    {
+      "datum": "22.01.2026.",
+      "terminPocetak": "18:45",
+      "terminKraj": "20:15",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "22.01.2026.",
+      "terminPocetak": "20:30",
+      "terminKraj": "22:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C4 Ivan Vučetić",
+      "nastavnik": "Vedran Dakić",
+      "tip": "Predavanje",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "23.01.2026.",
+      "terminPocetak": "11:30",
+      "terminKraj": "13:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Implementacija računarstva u oblaku (25-122-0194)"
+    },
+    {
+      "datum": "23.01.2026.",
+      "terminPocetak": "13:30",
+      "terminKraj": "15:00",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Jasmin Redžepagić",
+      "tip": "Vježbe",
+      "predmet": "Administracija operacijskih sustava (25-122-0192)"
+    },
+    {
+      "datum": "23.01.2026.",
+      "terminPocetak": "15:15",
+      "terminKraj": "16:45",
+      "terminTrajanje": 90,
+      "dvorana": "Lecture room C6",
+      "nastavnik": "Damir Regvart",
+      "tip": "Vježbe",
+      "predmet": "Administracija otvorenih operacijskih sustava (25-122-0193)"
+    }
+  ]
+}
